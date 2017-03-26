@@ -1,0 +1,4 @@
+#Tomcat publish data
+#Sat Mar 25 22:46:54 IST 2017
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Arindam\\Documents\\Final_online_shop\\Wbstore\\WebContent\\WEB-INF\\lib\\spring-web-4.3.7.RELEASE-sources.jar=WEB-INF/lib/spring-web-4.3.7.RELEASE-sources.jar
+org.eclipse.jst.jee.server\:/binary\:C\:\\Users\\Arindam\\Documents\\Final_online_shop\\Wbstore\\WebContent\\WEB-INF\\lib\\spring-web-4.3.7.RELEASE.jar=WEB-INF/lib/spring-web-4.3.7.RELEASE.jar
